@@ -1,2 +1,2 @@
 # gitskills
-create a branch test;
+create a branch test & simple;
